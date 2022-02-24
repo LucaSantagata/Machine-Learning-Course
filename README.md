@@ -1,8 +1,8 @@
 # Machine-Learning-Course
-##Course Program   
+## Course Program   
 
 
-#1. Motivation#: components of the learning problem and applications of Machine Learning. Supervised and unsupervised learning.
+# 1. Motivation : components of the learning problem and applications of Machine Learning. Supervised and unsupervised learning.
 
 #2. Introduction: The supervised learning problem, Classes of models, Losses, Probabilistic models and assumptions on the data.  Regression and Classification.
 
