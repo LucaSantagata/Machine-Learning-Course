@@ -26,7 +26,7 @@
 
 
 
-###Laboratories:
+### Laboratories:
 
 **1. Introduction to Python**
 
