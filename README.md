@@ -14,26 +14,26 @@
 
 **6. Kernel Methods**: Support Vector Machines.
 
-**7. Random Forests
+**7. Random Forests**
 
-**8. Neural Networks
+**8. Neural Networks**
 
-**9. Deep Learning: Convolutional Neural Networks, advanced models
+**9. Deep Learning**: Convolutional Neural Networks, advanced models
 
-**10. Unsupervised learning: Cluster analysis, Linkage-based clustering, K-means Clustering.
+**10. Unsupervised learning**: Cluster analysis, Linkage-based clustering, K-means Clustering.
 
-**11. Dimensionality reduction: Principal Component Analysis (PCA).
+**11. Dimensionality reduction**: Principal Component Analysis (PCA).
 
 
 
 ###Laboratories:
 
-**1. Introduction to Python
+**1. Introduction to Python**
 
-**2. Linear models for regression and classification
+**2. Linear models for regression and classification**
 
-**3. Support Vector Machines
+**3. Support Vector Machines**
 
-**4. Neural Networks
+**4. Neural Networks**
 
-**5. Deep Learning with Kera
+**5. Deep Learning with Kera**
